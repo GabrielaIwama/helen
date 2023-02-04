@@ -71,12 +71,6 @@ sections:
         date_end: '2008-12-31'
     design:
       columns: '2'
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
   - block: contact
     id: contact
     content:
