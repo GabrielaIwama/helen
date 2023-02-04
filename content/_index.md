@@ -18,7 +18,6 @@ sections:
         gradient_end: '#85A392'
         gradient_start: '#738C7E'
         text_color_light: true
-
   - block: about.avatar
     id: about
     content:
@@ -26,8 +25,8 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-
   - block: features
+    id: atuacao
     content:
       title: Áreas de Atuação
       items:

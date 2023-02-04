@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Áreas de Atuação
-    url: '#features'
+    url: '#atuacao'
     weight: 20
   - name: Contato
     url: '#contact'
