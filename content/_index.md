@@ -60,13 +60,13 @@ sections:
         company: Pontifícia Universidade Católica de São Paulo
         company_logo: org-puc
         location: São Paulo, SP
-        #date_start: '20-01-01'
+        date_start: '2013-01-01'
         date_end: '2014-12-31'
       - title: Bacharel em Direito
         company: Universidade Cidade de São Paulo
         company_logo: org-d
         location: São Paulo, SP
-        #date_start: '20-01-01'
+        date_start: '2004-01-01'
         date_end: '2008-12-31'
     design:
       columns: '2'
