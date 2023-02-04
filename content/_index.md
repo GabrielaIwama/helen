@@ -63,25 +63,12 @@ sections:
         location: São Paulo, SP
         #date_start: '20-01-01'
         date_end: '2014-12-31'
-#        - title: CEO
-#          company: GenCoin
-#          company_url: ''
-#          company_logo: org-gc
-#          location: California
-#          date_start: '2021-01-01'
-#          date_end: ''
-#         description: |2-
-#            Responsibilities include:
-#
-#              * Analysing
-#              * Modelling
-#              * Deploying
-        - title: Bacharel em Direito
-          company: Universidade Cidade de São Paulo
-          company_logo: org-d
-          location: São Paulo, SP
-          #date_start: '20-01-01'
-          date_end: '2008-12-31'
+      - title: Bacharel em Direito
+        company: Universidade Cidade de São Paulo
+        company_logo: org-d
+        location: São Paulo, SP
+        #date_start: '20-01-01'
+        date_end: '2008-12-31'
     design:
       columns: '2'
     design:
