@@ -80,5 +80,5 @@ sections:
       email: heleniwama@gmail.com
       phone: (11) 97542-5427
     design:
-      columns: '1'
+      columns: '2'
 ---
